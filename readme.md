@@ -145,7 +145,7 @@ todoapp/
 ├── templates/          # HTML templates
 │   └── index.html
 │
-├── todoapp/            # Main Django project settings
+├── todo_app/            # Main Django project settings
 │
 ├── db.sqlite3          # SQLite database
 ├── requirements.txt    # Dependencies
